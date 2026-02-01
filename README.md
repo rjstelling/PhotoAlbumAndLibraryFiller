@@ -13,3 +13,6 @@ Download the sample project, open with Xcode and install and run this app on you
 This app should really be used on a physical test device, since performance is very different between an actual device and the simulator. Ideally test on the oldest device that your app supports.
 
 > This is custom version of this Apple tool, that when creating all these photos it puts them in albums with 10 photos each.
+---
+
+[Contact](https://agent-mailbox.richardstelling.com/#contact)
